@@ -1,0 +1,15 @@
+NLP Project: Named Entity Recognition (NER)
+This repository showcases a project completed as part of an NLP course assignment. The goal was to develop and evaluate Named Entity Recognition (NER) models, exploring different architectures and fine-tuning hyperparameters for optimal performance.
+
+Key Features:
+Metric Calculation: Custom code to evaluate model performance on a test dataset.
+Architecture Experiments: Comparison of multiple NER model architectures to identify the best-performing one.
+Hyperparameter Tuning: Optimized the learning rate scheduler and optimizer settings to improve model convergence.
+End-to-End Training Pipeline: Includes a Jupyter Notebook with a complete pipeline for data preprocessing, model training, evaluation, and results analysis.
+Best Model Selection: Highlighted the architecture and settings that achieved the highest score.
+Technologies Used:
+Python
+PyTorch / TensorFlow (specify which was used)
+Jupyter Notebook
+Google Colab
+Explore the code and results in the provided Jupyter Notebook to see how the best NER model was developed and evaluated.
